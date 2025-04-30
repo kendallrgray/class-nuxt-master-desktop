@@ -1,5 +1,5 @@
 <template>
     <div>
-        <PageHeader title="About Page" />
+        <PageHeader title="Contact Page"/>
     </div>
 </template>
