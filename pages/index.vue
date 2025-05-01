@@ -1,17 +1,35 @@
 <template>
    <div class="max-7xl mx-auto">
+      <!-- Hero Section -->
       <section>
-         <template>
-    <div class="h-screen">
-      <img src="https://wallpapercave.com/wp/wp12446407.jpg" alt="Hero Image" class="w-full h-full object-cover" />
-    </div>
-  </template>
-      </section>
-      <section class="flex flex-row gap-8 py-12 justify-between">
-         <article class="flex-1 h-96 w-96 bg-gray-400 text-white text-center">Box 1</article>
-         <article class="flex-1 h-96 w-96 bg-gray-400 text-white text-center">Box 2</article>
-         <article class="flex-1 h-96 bg-gray-400 text-white text-center">Box 3</article>
+         <div
+            class="h-screen w-full bg-cover bg-center relative"
+            style="background-image: url('https://images2.alphacoders.com/914/thumb-1920-914664.jpg');"
+         >
+            <!-- Overlay for better text visibility -->
+            <div class="absolute inset-0 bg- bg-opacity-50"></div>
 
+            <!-- Hero content -->
+            <div class="relative flex flex-col items-center justify-center h-full text-white text-center">
+               <h1 class="text-5xl font-bold mb-4">KENDALL GRAY</h1>
+               <p class="text-2xl font-light">Creativity Overload</p>
+            </div>
+         </div>
+      </section>
+
+      <!-- Other Sections -->
+      <section class="flex flex-row gap-9 py-12 justify-between">
+         <article class="flex-0.5 h-96 w-96 text-gray-200 text-center py-15">to listen
+            <a href="https://open.spotify.com/album/1SePKD46mKjmAuugWuCXug?si=aaEvfXUHTKCbcx7Ug50NQg" target="Another Word for Grateful - Spotify">
+               <img src="/awfgpic.png" alt="Another Word for Grateful" class="w-full h-full object-cover" />
+            </a>
+         </article>
+         <article class="flex-0.5 h-96 w-96 text-gray-200 text-center py-15">to watch
+            <a href="https://www.youtube.com/watch?v=7Mrbd14T5Tg" target="Another Word for Grateful - Spotify">
+               <img src="https://i.ytimg.com/an_webp/2u2pTex8Le4/mqdefault_6s.webp?du=3000&sqp=CKD7ysAG&rs=AOn4CLCRSP-CWnpy-lXigkvXiHJCPHWOuQ" alt="Another Word for Grateful" class="w-full h-full object-cover" />
+            </a>
+         </article>
+         <article class="flex-0.5 h-96 w-96 text-gray-200 text-center py-15">to write</article>
       </section>
    </div>
 </template>
