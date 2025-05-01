@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="text-2xl border-b border-gray-200 pb-4">{{ title }}</h1>
+        <h1 class="text-4xl font-bold text-gray-900/80 border-b border-gray-800/50 pb-4">{{ title }}</h1>
     </div>
 </template>
 <script setup>
