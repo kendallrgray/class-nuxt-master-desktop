@@ -27,17 +27,17 @@
       <section class="flex flex-row gap-9 py-12 justify-between">
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to listen
             <a href="https://open.spotify.com/album/1SePKD46mKjmAuugWuCXug?si=aaEvfXUHTKCbcx7Ug50NQg" target="Another Word for Grateful - Spotify">
-               <img src="/awfgpic.png" alt="Another Word for Grateful" class="w-full h-full object-cover" />
+               <img src="file:///Users/kendallgray/Desktop/class-nuxt-master-desktop/public/AWFG_COVER_ART_2.png" alt="Another Word for Grateful" class="w-full h-full object-cover" />
             </a>
          </article>
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to watch
             <a href="https://www.youtube.com/watch?v=7Mrbd14T5Tg" target="A Documentary I made">
-               <img src="DocuClip.gif" alt="I made an album and a documentary about it" class="w-full h-full object-cover" />
+               <img src="file:///Users/kendallgray/Desktop/class-nuxt-master-desktop/public/docuclip.gif" alt="I made an album and a documentary about it" class="w-full h-full object-cover" />
             </a>
          </article>
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to write
-            <a href="journalclip.gif" target="Overthinky Journal Prompt Book">
-               <img src="https://a.co/d/hQ1oZOt" alt="why won't an image load here?" class="w-full h-full object-cover" />
+            <a href="https://a.co/d/hQ1oZOt" target="Overthinky Journal Prompt Book">
+               <img src="file:///Users/kendallgray/Desktop/class-nuxt-master-desktop/public/journalclip.gif" alt="why won't an image load here?" class="w-full h-full object-cover" />
             </a>
          </article>
       </section>
