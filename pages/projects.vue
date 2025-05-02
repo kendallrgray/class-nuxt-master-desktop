@@ -42,7 +42,7 @@
             <!-- Project 4 -->
             <div class="bg-white rounded-lg shadow-md overflow-hidden">
                 <a href="https://open.spotify.com/album/1SePKD46mKjmAuugWuCXug?si=0iWIyOdySvyKI-m2rjVgQg" target="another word for grateful">
-                    <img src="https://m.media-amazon.com/images/I/51fsAs2gCML._UXNaN_FMjpg_QL85_.jpg" alt="Project 1" class="w-full h-48 object-cover" />
+                    <img src="file:///Users/kendallgray/Desktop/class-nuxt-master-desktop/public/awfgcoverart.png" alt="Project 1" class="w-full h-48 object-cover" />
                     <div class="p-4">
                         <h3 class="font-bold text-gray-700 text-2xl">the album</h3>
                         <p class="text-black p-4">When I was 4, I wished for a guitar and a female guitar teacher. I started writing songs at 5. I've played piano since I was 10. Since then, I'd written (and since unpublished) hundreds of songs, and was never truly connected to them. This, however, I like. I spent 4+ years creating this in the basement bedroom of my parents' house!</p>
