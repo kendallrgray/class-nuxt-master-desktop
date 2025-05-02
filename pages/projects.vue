@@ -29,7 +29,7 @@
             <!-- Project 3 -->
             <div class="bg-white rounded-lg shadow-md overflow-hidden">
                 <a href="https://www.youtube.com/watch?v=7Mrbd14T5Tg" target="Documentary Again">
-                    <img src="https://i.ytimg.com/an_webp/2u2pTex8Le4/mqdefault_6s.webp?du=3000&sqp=CKD7ysAG&rs=AOn4CLCRSP-CWnpy-lXigkvXiHJCPHWOuQ" alt="Project 3" class="w-full h-48 object-cover" />
+                    <img src="https://i.ytimg.com/an_webp/2u2pTex8Le4/mqdefault_6s.webp?du=3000&sqp=CM6vy8AG&rs=AOn4CLAVxPZVWxKGJD_AydVD8vStlOKFEg" alt="Project 3" class="w-full h-48 object-cover" />
                     <div class="p-4">
                         <h3 class="font-bold text-gray-700 text-2xl">the youtube channel</h3>
                         <p class="text-black p-5">I started this channel when I was 12. 

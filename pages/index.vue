@@ -32,11 +32,11 @@
          </article>
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to watch
             <a href="https://www.youtube.com/watch?v=7Mrbd14T5Tg" target="A Documentary I made">
-               <img src="https://i.ytimg.com/an_webp/2u2pTex8Le4/mqdefault_6s.webp?du=3000&sqp=CKD7ysAG&rs=AOn4CLCRSP-CWnpy-lXigkvXiHJCPHWOuQ" alt="I made an album and a documentary about it" class="w-full h-full object-cover" />
+               <img src="DocuClip.gif" alt="I made an album and a documentary about it" class="w-full h-full object-cover" />
             </a>
          </article>
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to write
-            <a href="https://i.ytimg.com/an_webp/rNNh5eXSWdA/mqdefault_6s.webp?du=3000&sqp=COCUy8AG&rs=AOn4CLAiimSCHcOXp5kCeQoL-oMhZZWqPw" target="Overthinky Journal Prompt Book">
+            <a href="journalclip.gif" target="Overthinky Journal Prompt Book">
                <img src="https://a.co/d/hQ1oZOt" alt="why won't an image load here?" class="w-full h-full object-cover" />
             </a>
          </article>
