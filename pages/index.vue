@@ -27,7 +27,7 @@
       <section class="flex flex-row gap-9 py-12 justify-between">
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to listen
             <a href="https://open.spotify.com/album/1SePKD46mKjmAuugWuCXug?si=aaEvfXUHTKCbcx7Ug50NQg" target="Another Word for Grateful - Spotify">
-               <img src="file:///Users/kendallgray/Desktop/class-nuxt-master-desktop/public/awfgcoverart.png" alt="Another Word for Grateful" class="w-full h-full object-cover" />
+               <img src="https://m.media-amazon.com/images/I/51fsAs2gCML._UXNaN_FMjpg_QL85_.jpg" alt="Another Word for Grateful" class="w-full h-full object-cover" />
             </a>
          </article>
          <article class="flex-0.5 h-96 w-96 text-black text-2xl text-center py-15">to watch
