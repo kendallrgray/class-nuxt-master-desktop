@@ -89,18 +89,18 @@
         <!-- about me section -->
         <PageHeader title="nice to meet you" />
 
-        <!-- About Me Section -->
+
         <div class="mt-8 flex flex-col lg:flex-row items-center space-y-6 lg:space-y-0 lg:space-x-8">
-            <!-- Profile Picture -->
+
             <div class="flex-shrink-0">
                 <img
-                    src="/IMG_1414.png"
+                    src="/headshotofme.png"
                     alt="profile picture"
                     class="rounded-full w-48 h-48 object-cover shadow-lg"
                 />
             </div>
 
-            <!-- About Me Text -->
+        
             <div class="text-left">
                 <p class="text-lg text-gray-700 mb-4">
                     As I write this (2025), I am 24-year-old creative who has been professionally video editing since I was a teenager. However, I've been creating in some form or another since I could talk. I have a passion for storytelling and listening to yours, whether through video, music, painting, drawing, crafting, building, cooking, writing and beyond. 
