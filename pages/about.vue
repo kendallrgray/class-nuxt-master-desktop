@@ -42,7 +42,7 @@
             <!-- Middle -->
             <div class="flex flex-col items-center space-y-4">
                 <img
-                    src="docuclip.gif"
+                    src="/docuclip.gif"
                     alt="Middle Example"
                     class="w-120 h-54 object-cover square-full shadow-mdd"
                 />
