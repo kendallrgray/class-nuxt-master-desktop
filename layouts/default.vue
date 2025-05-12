@@ -1,9 +1,7 @@
 <template>
-    <nav>
-        header nav
-    </nav>
+    <nav></nav>
 
-    <footer>
-        footer
-    </footer>
+    <slot />
+
+    <footer></footer>
 </template>

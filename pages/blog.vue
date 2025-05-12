@@ -3,3 +3,6 @@
         <PageHeader title="quasi blog" class="font-bold text-6xl text-gray-700 py-3" />
     </div>
 </template>
+
+
+<NuxtLayout /> Test
